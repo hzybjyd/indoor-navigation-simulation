@@ -18,7 +18,7 @@ x64/
 TreeObject/
 
 # ===== 程序运行输出（时间戳日志） =====
-output/
+output/*.txt
 
 # ===== Visual Studio 用户私有配置 =====
 *.vcxproj.user
