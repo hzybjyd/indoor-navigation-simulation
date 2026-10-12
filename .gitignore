@@ -1,0 +1,32 @@
+# ===== 构建产物 =====
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.exp
+*.lib
+*.recipe
+*.tlog
+*.log
+*.lastbuildstate
+build/
+Debug/
+Release/
+x64/
+TreeObject/
+
+# ===== 程序运行输出（时间戳日志） =====
+output/
+
+# ===== Visual Studio 用户私有配置 =====
+*.vcxproj.user
+*.suo
+
+# ===== 编辑器 / 系统杂项 =====
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
